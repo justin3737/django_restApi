@@ -34,3 +34,6 @@ deactivate
 pip install -r requirements.txt
 
 ```
+---
+### 啟動Django
+> pyhton manage.py runserver
