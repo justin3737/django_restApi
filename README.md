@@ -31,9 +31,9 @@ source venv/bin/activate
 deactivate
 
 # Install requirements, you only need to do this once
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 ```
 ---
 ### 啟動Django
-> pyhton manage.py runserver
+> python manage.py runserver
