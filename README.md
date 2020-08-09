@@ -40,3 +40,6 @@ pip install -r requirement.txt
 
 ### 建立Super User
 > python manage.py createsuperuser
+
+### reference
+> [Django rest framework tutorial](https://github.com/twtrubiks/django-rest-framework-tutorial/)
